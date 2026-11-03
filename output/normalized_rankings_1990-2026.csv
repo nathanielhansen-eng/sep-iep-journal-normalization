@@ -1,0 +1,31 @@
+norm_rank,raw_rank,journal,sep_iep_citations,papers_1990_2026,citations_per_100_papers,range_if_estimated,note
+1,14,Philosophical Review,667,424,157.3,,
+2,15,Philosophical Perspectives,562,508,110.6,,
+3,17,Philosophy and Public Affairs,522,480,108.8,,1990-93 missing from Crossref; extrapolated at the 1994-2026 rate
+4,7,Ethics,940,872,107.8,,
+5,6,Mind,1011,1000,101.1,,
+6,8,Journal of Philosophy,929,978,95.0,,
+7,5,Nous,1050,1235,85.0,,
+8,4,Philosophy and Phenomenological Research,1235,2001,61.7,,
+9,9,British Journal for the Philosophy of Science,822,1346,61.1,,
+10,3,Philosophy of Science,1437,2397,59.9,,
+11,10,Australasian Journal of Philosophy,819,1384,59.2,,
+12,29,Philosophers' Imprint,324,552,58.7,,counted by hand from the journal archive (Crossref DOIs start 2021); all articles regardless of length
+13,2,Philosophical Studies,2193,4245,51.7,,
+14,13,Philosophical Quarterly,671,1354,49.6,,
+15,19,Mind & Language,497,1005,49.5,,
+16,24,Journal of Aesthetics and Art Criticism,369,798,46.2,,
+17,26,Philosophical Topics,348,762,45.7,,
+18,20,Journal of Philosophical Logic,484,1133,42.7,,
+19,22,Pacific Philosophical Quarterly,399,966,41.3,,
+20,18,Philosophy Compass,519,1287,40.3,,
+21,16,Biology & Philosophy,532,1353,39.3,,
+22,23,Canadian Journal of Philosophy,396,1096,36.1,,
+23,28,British Journal of Aesthetics,326,919,35.5,,
+24,25,Monist,362,1105,32.8,,
+25,21,Hypatia,480,1511,31.8,,
+26,30,American Philosophical Quarterly,312,983,31.7,28-37,"Crossref starts 2017; estimated at the 2017-25 rate (27/yr) back to 1990, +/-15%"
+27,1,Synthese,2251,7619,29.5,,
+28,12,Erkenntnis,708,2487,28.5,,
+29,11,Analysis,805,3207,25.1,,lower page minimum (short-paper journal)
+,27,Science,330,,,,excluded: general-science weekly
